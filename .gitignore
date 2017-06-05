@@ -104,6 +104,9 @@ ENV/
 # End of https://www.gitignore.io/api/python
 
 *.p
-checkpoints
 DBDC*
 *~
+*.zip
+dev
+eval
+*.txt
